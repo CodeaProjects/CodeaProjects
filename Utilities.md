@@ -1,7 +1,7 @@
 Utilities
 ------------
 
-| Script Name        | Description   | 
+| Project            | Description   | 
 | ------------------ | ------------- | 
 |[Codea-SCM] []      |Server for Codea SCM|
 |[Codea-SCM-APP] []  |Codea app for SCM, git repos|
