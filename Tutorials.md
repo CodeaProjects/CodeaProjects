@@ -1,4 +1,4 @@
-GitHub Repos
+Codea Tutorials
 ------------
 
 | Script Name        | Description   | 
@@ -6,7 +6,23 @@ GitHub Repos
 
 
 
-GitHub Gists
+2D Tutorials
+------------
+
+| Script Name        | Description   | 
+| -------------      | ------------- | 
+
+
+
+3D Tutorials
+------------
+
+| Script Name        | Description   | 
+| -------------      | ------------- | 
+
+
+
+Misc Tutorials
 ------------
 
 | Script Name        | Description   | 
