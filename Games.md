@@ -1,6 +1,6 @@
 2D Games
 ------------
-| Script Name        | Description   | 
+| Project            | Description   | 
 | -------------      | ------------- | 
 |[Simple Invaders] []| Invaders by West|
 
@@ -8,7 +8,7 @@
 3D Games
 ------------
 
-| Script Name        | Description   | 
+| Project            | Description   | 
 | -------------      | ------------- | 
 
 
