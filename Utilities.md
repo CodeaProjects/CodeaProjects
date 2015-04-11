@@ -3,7 +3,8 @@ GitHub Repos
 
 | Script Name        | Description   | 
 | ------------------ | ------------- | 
-|[Codea-SCM] []      |SCM - Create Git repos|
+|[Codea-SCM] []      |Server for Codea SCM|
+|[Codea-SCM-APP] []  |Codea app for SCM, git repos|
 
 
 GitHub Gists
@@ -15,3 +16,4 @@ GitHub Gists
 
 
 [Codea-SCM]: https://bitbucket.org/juce/codea-scm/src
+[Codea-SCM-App]: https://bitbucket.org/juce/codea-scm-app
