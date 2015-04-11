@@ -1,4 +1,4 @@
-GitHub Repos
+Utilities
 ------------
 
 | Script Name        | Description   | 
@@ -7,11 +7,6 @@ GitHub Repos
 |[Codea-SCM-APP] []  |Codea app for SCM, git repos|
 
 
-GitHub Gists
-------------
-
-| Script Name        | Description   | 
-| -------------      | ------------- | 
 
 
 
