@@ -6,7 +6,9 @@ This a repo that contains links to Codea projects on iOS.
 Catagories
 ----------
 [Games](https://github.com/CodeaProjects/CodeaProjects/blob/master/Games.md)
+
 [Utilities](https://github.com/CodeaProjects/CodeaProjects/blob/master/Games.md)
+
 [Tutorials](https://github.com/CodeaProjects/CodeaProjects/blob/master/Games.md)
 
 How to get your project listed
