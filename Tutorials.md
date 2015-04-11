@@ -1,7 +1,7 @@
 Codea Tutorials
 ------------
 
-| Script Name        | Description   | 
+| Project            | Description   | 
 | ------------------ | ------------- | 
 |[Codea For Beginners][] | by Ignatz eBook for Codea Beginners|
 
@@ -9,7 +9,7 @@ Codea Tutorials
 2D Tutorials
 ------------
 
-| Script Name        | Description   | 
+| Project            | Description   | 
 | -------------      | ------------- | 
 
 
@@ -17,7 +17,7 @@ Codea Tutorials
 3D Tutorials
 ------------
 
-| Script Name        | Description   | 
+| Project            | Description   | 
 | -------------      | ------------- | 
 
 
@@ -25,7 +25,7 @@ Codea Tutorials
 Misc Tutorials
 ------------
 
-| Script Name        | Description   | 
+| Project            | Description   | 
 | -------------      | ------------- | 
 
 
