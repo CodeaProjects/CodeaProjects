@@ -5,8 +5,9 @@
 |[Simple Asteroids] []    | Classic Asteroids|
 |[Simple Invaders] []     | Invaders by West|
 |[Simple Lunar Lander] [] | Basic Lunar Lander Game|
-|[Simple Snake] []        | Simple implementation of the classic game Snake.|
 |[Simple Missile Command] [] | Missile Command by West|
+|[Simple Snake] []        | Simple implementation of the classic game Snake.|
+
 
 3D Games
 ------------
