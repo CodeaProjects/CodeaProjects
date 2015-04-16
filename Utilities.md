@@ -1,10 +1,10 @@
 Utilities
 ------------
 
-| Project            | Description   | 
-| ------------------ | ------------- | 
-|[Codea-SCM] []      |Server for Codea SCM|
-|[Codea-SCM-APP] []  |Codea app for SCM, git repos|
+| Project            | Description                | Author   |
+| ------------------ | -------------              | ------   | 
+|[Codea-SCM] []      |Server for Codea SCM        | Juce     |
+|[Codea-SCM-APP] []  |Codea app for SCM, git repos| Juce     |
 
 
 
